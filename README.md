@@ -1,5 +1,4 @@
 # LLM-Python-Projects
-# LLM Colab Demos
 هذا المستودع يحتوي على أمثلة عملية لتجارب مع نماذج الذكاء الاصطناعي (LLM) باستخدام Python و HuggingFace.
 
 ## ما يتضمنه
